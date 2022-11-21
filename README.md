@@ -2,4 +2,4 @@
 
 - Jitsi  =>  Video llamadas
 - MailDev => Mail para desarrollo
-- BotPress => Bot
+- BotPress => Bot => https://botpress.com/
